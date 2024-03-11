@@ -19,7 +19,9 @@
 
 # Xây Dựng Bộ Dữ Liệu
 * **Việc thu thập dữ liệu:**
-  * Crawl dữ liệu trên 2 group: [Forum Machine Learning cơ bản](https://www.facebook.com/groups/machinelearningcoban) và [Group hỏi đáp Python, Data Science, Machine Learning, Deep Learning](https://www.facebook.com/groups/dsmlvietnam) 
+  * Crawl dữ liệu trên 2 group: [Forum Machine Learning cơ bản](https://www.facebook.com/groups/machinelearningcoban) và [Group hỏi đáp Python, Data Science, Machine Learning, Deep Learning](https://www.facebook.com/groups/dsmlvietnam)
+  * Sử dụng Selenium để Crawl dữ liệu
+  * Link tải Chrome Driver : [Link](https://googlechromelabs.github.io/chrome-for-testing/)
 * **Gán nhãn bộ dữ liệu**
   * Quy trình gán nhãn bộ dữ liệu
       <img src="https://github.com/Khanh-21522203/CS114.O11.KHCL-21522203/assets/117832185/2ce8b609-2f3f-494d-ab9b-18701655cc08"/>
